@@ -1,7 +1,7 @@
 const sidebar = {
   guide: [
     {
-      title: 'Leaf CLI',
+      title: 'Leaf UI',
       collapsable: false,
       children: [
         {
@@ -37,8 +37,8 @@ const sidebar = {
 }
 
 module.exports = {
-  title: 'Leaf CLI',
-  description: 'Leaf PHP - Next gen tooling for your leaf apps',
+  title: 'Leaf UI',
+  description: 'Leaf UI - PHP library for building user interfaces.',
   head: [
     [
       'link',
